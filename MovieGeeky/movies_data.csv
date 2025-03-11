@@ -1,0 +1,797 @@
+genres,title,release_date,runtime,vote_average,director
+Western,The Revenant,12/25/2015,156,7.3,Alejandro Gonzalez
+Western,Unforgiven,8/7/1992,131,7.7,Clint Eastwood
+Western,High Plains Drifter,4/19/1973,105,7.4,Clint Eastwood
+Western,High Noon,3/27/1952,85,7.6,Fred Zinnemann
+Western,3:10 to Yuma,9/6/2007,122,6.9,James Mangold
+Western,Hidalgo,3/5/2004,136,6.5,Joe Johnston
+Western,The Man Who Shot Liberty Valance,4/22/1962,123,7.4,John Ford
+Western,The Alamo,4/7/2004,137,5.8,John Lee Hancock
+Western,Forsaken,9/16/2015,90,5.8,Jon Cassar
+Western,Spirit: Stallion of the Cimarron,5/24/2002,83,7.4,Kelly Asbury
+Western,Open Range,8/29/2003,139,7,Kevin Costner
+Western,Blazing Saddles,2/7/1974,93,7.2,Mel Brooks
+Western,"The Good, the Bad and the Ugly",12/23/1966,161,8.1,Sergio Leone
+Western,Once Upon a Time in the West,12/21/1968,175,8.1,Sergio Leone
+Western,A Fistful of Dollars,9/12/1964,99,7.6,Sergio Leone
+Western,Hang 'em High,7/31/1968,114,6.7,Ted Post
+Western,The Homesman,5/18/2014,122,6.4,Tommy Lee Jones
+War,American Sniper,12/11/2014,133,7.4,Clint Eastwood
+War,Flags of Our Fathers,10/18/2006,132,6.7,Clint Eastwood
+War,Fury,10/15/2014,135,7.4,David Ayer
+War,Glory,12/15/1989,122,7.4,Edward Zwick
+War,From Here to Eternity,8/4/1953,118,7.2,Fred Zinnemann
+War,Free State of Jones,6/24/2016,139,6.6,Gary Ross
+War,The Monuments Men,1/24/2014,118,5.8,George Clooney
+War,Enemy at the Gates,3/13/2001,131,7.2,Jean-Jacques Annaud
+War,The Boy in the Striped Pyjamas,5/7/2008,94,7.7,Mark Herman
+War,Alexander,11/21/2004,175,5.6,Oliver Stone
+War,Green Zone,3/11/2010,115,6.4,Paul Greengrass
+War,The Water Diviner,12/25/2014,112,6.8,Russell Crowe
+War,The Four Feathers,9/8/2002,132,6.5,Shekhar Kapur
+Thriller,The Equalizer,9/24/2014,132,7.1,Antoine Fuqua
+Thriller,A Most Wanted Man,7/25/2014,121,6.5,Anton Corbijn
+Thriller,Red Planet,11/10/2000,106,5.4,Antony Hoffman
+Thriller,Contraband,1/12/2012,109,6.1,Baltasar Kormkur
+Thriller,The Prince,8/22/2014,93,4.6,Brian A Miller
+Thriller,The Transporter Refueled,9/3/2015,96,5.2,Camille Delamarre
+Thriller,Swimming Pool,5/18/2003,102,6.4,Francois Ozon
+Thriller,Don't Say a Word,9/28/2001,113,6,Gary Fleder
+Thriller,Snatch,9/1/2000,103,7.7,Guy Ritchie
+Thriller,Survivor,5/21/2015,96,5.4,James McTeigue
+Thriller,Sleep Tight,10/14/2011,107,7,Jaume Balaguer
+Thriller,Assault on Precinct 13,1/19/2005,109,6,Jean-Francois Richet
+Thriller,Money Monster,5/12/2016,98,6.5,Jodie Foster
+Thriller,The Hole,9/9/2009,92,5.6,Joe Dante
+Thriller,Reindeer Games,2/25/2000,124,5.4,John Frankenheimer
+Thriller,Abduction,9/22/2011,106,5.6,John Singleton
+Thriller,The Tuxedo,9/27/2002,98,5.3,Kevin Donovan
+Thriller,Now You See Me,5/29/2013,115,7.3,Louis Leterrier
+Thriller,Ghost Rider,2/16/2007,114,5.2,Mark Steven Johnson
+Thriller,Pain & Gain,4/18/2013,130,6.1,Michael Bay
+Thriller,The Bodyguard,11/25/1992,129,6.1,Mick Jackson
+Thriller,Hard Rain,1/16/1998,97,5.5,Mikael Salomon
+Thriller,Headhunters,8/4/2011,100,7.1,Morten Tyldum
+Thriller,Dead Man Down,3/8/2013,118,5.9,Niels Arden Oplev
+Thriller,Taken 3,12/16/2014,109,6.1,Olivier Megaton
+Thriller,Battleship,4/11/2012,131,5.5,Peter Berg
+Thriller,The Kingdom,8/22/2007,110,6.5,Peter Berg
+Thriller,The Sum of All Fears,5/31/2002,124,5.9,Phil Alden Robinson
+Thriller,The Saint,4/3/1997,116,5.9,Phillip Noyce
+Thriller,Pulp Fiction,10/8/1994,154,8.3,Quentin Tarantino
+Thriller,Firewall,2/10/2006,105,5.6,Richard Loncraine
+Thriller,The Boy Next Door,1/23/2015,91,4.1,Rob Cohen
+Thriller,Desperado,8/25/1995,104,6.8,Robert Rodriguez
+Thriller,Grindhouse,4/6/2007,191,6.8,Robert Rodriguez
+Thriller,Idle Hands,4/30/1999,92,6.1,Rodman Flender
+Thriller,The 51st State,12/7/2001,93,5.9,Ronny Yu
+Thriller,Rise of the Planet of the Apes,8/3/2011,105,7,Rupert Wyatt
+Thriller,Road to Perdition,7/12/2002,117,7.3,Sam Mendes
+Thriller,The Frozen Ground,7/18/2013,105,6.1,Scott Walker
+Thriller,Double Impact,8/10/1991,110,5.3,Sheldon Lettich
+Thriller,Ocean's Twelve,12/9/2004,125,6.4,Steven Soderbergh
+Thriller,Ocean's Eleven,12/7/2001,116,7.2,Steven Soderbergh
+Thriller,Our Kind of Traitor,5/5/2016,108,6,Susanna White
+Thriller,The Expendables,8/3/2010,103,6,Sylvester Stallone
+Thriller,Left Behind,10/3/2014,110,3.7,Vic Armstrong
+Science Fiction,Terminator Genisys,6/23/2015,126,5.8,Alan Taylor
+Science Fiction,Sphere,2/13/1998,134,5.8,Barry Levinson
+Science Fiction,Antiviral,9/19/2012,110,5.7,Brandon Cronenberg
+Science Fiction,Mission to Mars,3/10/2000,114,5.7,Brian De Palma
+Science Fiction,The Flintstones in Viva Rock Vegas,4/28/2000,90,4.4,Brian Levant
+Science Fiction,X-Men: Apocalypse,5/18/2016,144,6.4,Bryan Singer
+Science Fiction,Firefox,6/13/1982,136,5.5,Clint Eastwood
+Science Fiction,Skyline,11/11/2010,100,4.7,Colin Strause
+Science Fiction,Star Trek: Generations,11/17/1994,118,6.4,David Carson
+Science Fiction,Alien³,5/22/1992,114,6.2,David Fincher
+Science Fiction,Blade: Trinity,12/8/2004,123,5.7,David S. Goyer
+Science Fiction,Riddick,9/2/2013,119,6.2,David Twohy
+Science Fiction,Moon,6/12/2009,97,7.6,Duncan Jones
+Science Fiction,The Hunger Games: Mockingjay - Part 1,11/18/2014,123,6.6,Francis Lawrence
+Science Fiction,The Mist,11/21/2007,126,6.7,Frank Darabont
+Science Fiction,The Hunger Games,3/12/2012,142,6.9,Gary Ross
+Science Fiction,Ender's Game,10/23/2013,114,6.6,Gavin Hood
+Science Fiction,Star Wars: Episode III - Revenge of the Sith,5/17/2005,140,7.1,George Lucas
+Science Fiction,Star Trek,5/6/2009,127,7.4,J.J. Abrams
+Science Fiction,Robot & Frank,8/16/2012,85,6.8,Jake Schreier
+Science Fiction,The Purge,5/31/2013,86,6,James DeMonaco
+Science Fiction,Austin Powers: International Man of Mystery,5/2/1997,94,6.5,Jay Roach
+Science Fiction,Somewhere in Time,10/2/1980,103,7.2,Jeannot Szwarc
+Science Fiction,Alien: Resurrection,11/12/1997,109,5.9,Jean-Pierre Jeunet
+Science Fiction,Escape from New York,5/22/1981,99,6.9,John Carpenter
+Science Fiction,Predator,6/11/1987,107,7.3,John McTiernan
+Science Fiction,Grabbers,8/10/2012,94,6,Jon Wright
+Science Fiction,Star Trek: First Contact,11/21/1996,111,7,Jonathan Frakes
+Science Fiction,Star Trek: Insurrection,12/10/1998,103,6.3,Jonathan Frakes
+Science Fiction,Teenage Mutant Ninja Turtles,8/7/2014,101,5.8,Jonathan Liebesman
+Science Fiction,Planet 51,11/19/2009,91,5.6,Jorge Blanco
+Science Fiction,Chronicle,2/1/2012,84,6.6,Josh Trank
+Science Fiction,The Avengers,4/25/2012,143,7.4,Joss Whedon
+Science Fiction,Serenity,8/25/2005,119,7.4,Joss Whedon
+Science Fiction,Akira,7/16/1988,124,7.8,Katsuhiro Octomo
+Science Fiction,Ultraviolet,3/3/2006,87,4.8,Kurt Wimmer
+Science Fiction,Star Trek III: The Search for Spock,5/31/1984,105,6.4,Leonard Nimoy
+Science Fiction,Star Trek IV: The Voyage Home,11/25/1986,119,6.9,Leonard Nimoy
+Science Fiction,Jupiter Ascending,2/4/2015,124,5.2,Lilly Wachowski
+Science Fiction,The Toxic Avenger,5/1/1984,82,6.3,Lloyd Kaufman
+Science Fiction,The Incredible Hulk,6/12/2008,114,6.1,Louis Leterrier
+Science Fiction,After Earth,5/30/2013,100,5,M. Night Shyamalan
+Science Fiction,Dawn of the Planet of the Apes,6/26/2014,130,7.3,Matt Reeves
+Science Fiction,Transformers: Age of Extinction,6/25/2014,165,5.8,Michael Bay
+Science Fiction,Transformers: Revenge of the Fallen,6/19/2009,150,6,Michael Bay
+Science Fiction,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,3/22/1991,88,5.8,Michael Pressman
+Science Fiction,Eternal Sunshine of the Spotless Mind,3/19/2004,108,7.9,Michel Gondry
+Science Fiction,Volcano,4/25/1997,104,5.2,Mick Jackson
+Science Fiction,I Origins,7/18/2014,106,7.5,Mike Cahill
+Science Fiction,Flash Gordon,9/1/1980,111,6.1,Mike Hodges
+Science Fiction,District 9,8/5/2009,112,7.3,Neill Blomkamp
+Science Fiction,Elysium,8/7/2013,109,6.4,Neill Blomkamp
+Science Fiction,Star Trek VI: The Undiscovered Country,12/5/1991,113,6.7,Nicholas Meyer
+Science Fiction,Ant-Man,7/14/2015,117,7,Peyton Reed
+Science Fiction,The Man from Earth,6/10/2007,87,7.7,Richard Schenkman
+Science Fiction,Prometheus,5/30/2012,124,6.3,Ridley Scott
+Science Fiction,Blade Runner,6/25/1982,117,7.9,Ridley Scott
+Science Fiction,Star Trek: The Motion Picture,12/6/1979,132,6.2,Robert Wise
+Science Fiction,Species,7/7/1995,108,5.5,Roger Donaldson
+Science Fiction,The 6th Day,11/17/2000,123,5.7,Roger Spottiswoode
+Science Fiction,Barbarella,10/10/1968,98,5.7,Roger Vadim
+Science Fiction,Primer,10/8/2004,77,6.9,Shane Carruth
+Science Fiction,The Time Machine,3/4/2002,96,5.8,Simon Wells
+Science Fiction,2001: A Space Odyssey,4/10/1968,149,7.9,Stanley Kubrick
+Science Fiction,Predator 2,11/20/1990,108,5.9,Stephen Hopkins
+Science Fiction,Hot Tub Time Machine,3/26/2010,101,6,Steve Pink
+Science Fiction,E.T. the Extra-Terrestrial,4/3/1982,115,7.3,Steven Spielberg
+Science Fiction,Close Encounters of the Third Kind,11/16/1977,135,7.2,Steven Spielberg
+Science Fiction,Star Trek: Nemesis,12/13/2002,117,6.1,Stuart Baird
+Science Fiction,Star Trek V: The Final Frontier,6/9/1989,107,5.6,William Shatner
+Science Fiction,The Divide,3/13/2011,112,5.7,Xavier Gens
+Science Fiction,Sound of My Voice,1/22/2011,85,6.3,Zal Batmanglij
+Romance,Leap Year,1/8/2010,100,6.4,Anand Tucker
+Romance,Fido,9/7/2006,91,6.6,Andrew Currie
+Romance,Fool's Gold,2/7/2008,112,5.4,Andy Tennant
+Romance,The DUFF,2/20/2015,100,6.8,Ari Sandel
+Romance,The Postman Always Rings Twice,3/20/1981,122,6.4,Bob Rafelson
+Romance,There's Something About Mary,7/15/1998,119,6.5,Bobby Farrelly
+Romance,The Mask,7/29/1994,101,6.6,Chuck Russell
+Romance,Just Go with It,2/10/2011,117,6.3,Dennis Dugan
+Romance,I Don't Know How She Does It,9/16/2011,89,5,Douglas McGrath
+Romance,The House Bunny,8/22/2008,97,5.6,Fred Wolf
+Romance,Pretty Woman,3/23/1990,119,7,Garry Marshall
+Romance,Focus,2/25/2015,105,6.7,Glenn Ficarra
+Romance,My Best Friend's Girl,9/19/2008,101,5.4,Howard Deutch
+Romance,Kicking & Screaming,5/13/2005,95,5.6,Jesse Dylan
+Romance,Soul Plane,5/28/2004,86,4.7,Jessy Terrero
+Romance,In the Land of Women,4/16/2007,97,5.8,Jon Kasdan
+Romance,Ironclad,3/3/2011,121,6.2,Jonathan English
+Romance,The Book of Life,10/1/2014,95,7.3,Jorge R. Gutierrez
+Romance,Don Jon,7/26/2013,90,5.9,Joseph Gordon-Levitt
+Romance,The Fault in Our Stars,5/16/2014,125,7.6,Josh Boone
+Romance,Mallrats,10/20/1995,94,6.8,Kevin Smith
+Romance,What to Expect When You're Expecting,5/17/2012,110,5.8,Kirk Jones
+Romance,My Big Fat Greek Wedding 2,3/23/2016,94,5.5,Kirk Jones
+Romance,Safe Haven,2/7/2013,115,6.9,Lasse Hallstr
+Romance,Two Weeks Notice,12/19/2002,101,5.9,Marc Lawrence
+Romance,Fifty Shades of Black,1/28/2016,92,4.3,Michael Tiddes
+Romance,The Crying Game,9/2/1992,112,6.9,Neil Jordan
+Romance,The Notebook,6/25/2004,123,7.7,Nick Cassavetes
+Romance,The Break-Up,6/1/2006,106,5.6,Peyton Reed
+Romance,Grease,7/7/1978,110,7.2,Randal Kleiser
+Romance,The Blue Lagoon,7/5/1980,104,5.8,Randal Kleiser
+Romance,Monster-in-Law,5/13/2005,101,5.6,Robert Luketic
+Romance,The Sweetest Thing,4/12/2002,84,5.3,Roger Kumble
+Romance,Notting Hill,5/13/1999,124,7,Roger Michell
+Romance,Quigley Down Under,10/17/1990,119,6.5,Simon Wincer
+Romance,Out of Sight,6/26/1998,123,6.5,Steven Soderbergh
+Romance,Duplicity,3/19/2009,125,5.7,Tony Gilroy
+Romance,Buffalo '66,1/20/1998,110,7.1,Vincent Gallo
+Romance,Friends with Benefits,7/21/2011,109,6.5,Will Gluck
+Romance,To Rome with Love,4/20/2012,111,5.6,Woody Allen
+Mystery,Dark City,2/27/1998,100,7.2,Alex Proyas
+Mystery,Torn Curtain,7/13/1966,128,6.4,Alfred Hitchcock
+Mystery,The Crazies,2/26/2010,101,6.2,Breck Eisner
+Mystery,Memento,10/11/2000,113,8.1,Christopher Nolan
+Mystery,Eagle Eye,9/25/2008,118,6.3,D.J. Caruso
+Mystery,Pi,7/10/1998,84,7.1,Darren Aronofsky
+Mystery,Gone Girl,10/1/2014,145,7.9,David Fincher
+Mystery,Disturbing Behavior,7/24/1998,84,5.5,David Nutter
+Mystery,Joe Dirt,4/10/2001,91,5.5,Dennie Gordon
+Mystery,Hostage,3/9/2005,113,6.2,Florent-Emilio Siri
+Mystery,Domestic Disturbance,10/30/2001,89,5.4,Harold Becker
+Mystery,Nerve,7/27/2016,96,7.1,Henry Joost
+Mystery,Identity,4/25/2003,90,7.1,James Mangold
+Mystery,Book of Shadows: Blair Witch 2,10/27/2000,90,4.3,Joe Berlinger
+Mystery,The Watcher,9/8/2000,96,4.9,Joe Charbanic
+Mystery,Joy Ride,10/5/2001,97,6.3,John Dahl
+Mystery,Sky Captain and the World of Tomorrow,9/17/2004,107,5.7,Kerry Conran
+Mystery,The Sixth Sense,8/6/1999,107,7.7,M. Night Shyamalan
+Mystery,Absentia,3/3/2011,92,5.8,Mike Flanagan
+Mystery,The Fourth Kind,11/6/2009,98,5.8,Olatunde Osunsanmi
+Mystery,My Bloody Valentine,1/16/2009,101,5.3,Patrick Lussier
+Mystery,Scooby-Doo,6/14/2002,88,5.4,Raja Gosnell
+Mystery,Scooby-Doo 2: Monsters Unleashed,3/24/2004,93,5.4,Raja Gosnell
+Mystery,Mindhunters,5/7/2004,106,6.3,Renny Harlin
+Mystery,The X Files,6/19/1998,121,6.6,Rob Bowman
+Mystery,The Witch,2/19/2016,92,6.3,Robert Eggers
+Mystery,Before I Go to Sleep,9/3/2014,92,6.2,Rowan Joffe
+Mystery,Eyes Wide Shut,7/14/1999,159,7.1,Stanley Kubrick
+Mystery,The House of the Devil,4/25/2009,95,6,Ti West
+Horror,Mama,1/17/2013,100,6,Andy Muschietti
+Horror,Triangle,10/16/2009,99,6.9,Christopher Smith
+Horror,Sinister 2,8/19/2015,97,5.4,Ciaran Foy
+Horror,Hellraiser,9/11/1987,94,6.9,Clive Barker
+Horror,Saw II,10/28/2005,92,6.3,Darren Lynn Bousman
+Horror,Hostel,1/6/2005,94,5.7,Eli Roth
+Horror,Hostel: Part II,6/8/2007,93,5.6,Eli Roth
+Horror,Evil Dead,4/5/2013,91,6.4,Fede Alvarez
+Horror,Maniac,12/26/2012,89,6,Franck Khalfoun
+Horror,Night of the Living Dead,10/1/1968,96,7.5,George A. Romero
+Horror,Land of the Dead,6/24/2005,93,6,George A. Romero
+Horror,Maggie,5/8/2015,95,5.2,Henry Hobson
+Horror,Paranormal Activity 3,10/19/2011,83,5.9,Henry Joost
+Horror,Paranormal Activity 4,10/17/2012,95,5.2,Henry Joost
+Horror,A Nightmare on Elm Street Part 2: Freddy's Revenge,10/31/1985,87,5.7,Jack Sholder
+Horror,The Conjuring 2,5/13/2016,134,7,James Wan
+Horror,Final Destination,3/16/2000,98,6.4,James Wong
+Horror,Darkness,10/2/2002,102,5.6,Jaume Balaguer
+Horror,House of Wax,4/30/2005,113,5.5,Jaume Collet-Serra
+Horror,The Fog,2/8/1980,89,6.4,John Carpenter
+Horror,Urban Legends: Final Cut,9/19/2000,97,4.4,John Ottman
+Horror,Annabelle,10/2/2014,99,5.6,John R. Leonetti
+Horror,The Texas Chainsaw Massacre: The Beginning,10/6/2006,91,5.9,Jonathan Liebesman
+Horror,The Beyond,4/22/1981,87,6.6,Lucio Fulci
+Horror,Devil's Due,1/8/2014,89,4.4,Matt Bettinelli-Olpin
+Horror,Creepshow 2,5/1/1987,92,5.9,Michael Gornick
+Horror,Oculus,9/8/2013,104,6.3,Mike Flanagan
+Horror,The Veil,4/21/2016,93,4.5,Phil Joanou
+Horror,House of 1000 Corpses,4/11/2003,89,6,Rob Zombie
+Horror,Halloween II,8/28/2009,105,5.1,Rob Zombie
+Horror,Freddy vs. Jason,8/15/2003,97,5.8,Ronny Yu
+Horror,Stigmata,9/10/1999,103,6,Rupert Wainwright
+Horror,The Evil Dead,10/15/1981,85,7.3,Sam Raimi
+Horror,Legion,1/21/2010,100,5.2,Scott Stewart
+Horror,The Loved Ones,9/13/2009,84,6.6,Sean Byrne
+Horror,The Reaping,4/5/2007,99,5.4,Stephen Hopkins
+Horror,Ouija,10/24/2014,89,4.9,Stiles White
+Horror,Poltergeist,6/4/1982,114,7,Tobe Hooper
+Horror,The Texas Chain Saw Massacre,10/1/1974,83,7.2,Tobe Hooper
+Horror,The Texas Chainsaw Massacre 2,8/22/1986,101,5.9,Tobe Hooper
+Horror,Cabin Fever,2/12/2016,99,4.4,Travis Zariwny
+Horror,A Nightmare on Elm Street,11/14/1984,91,7.2,Wes Craven
+History,Evita,12/14/1996,134,5.9,Alan Parker
+History,Selma,12/25/2014,127,7.4,Ava DuVernay
+History,Bobby,9/5/2006,120,6.4,Emilio Estevez
+History,Butch Cassidy and the Sundance Kid,9/23/1969,110,7.4,George Roy Hill
+History,Milk,11/26/2008,128,7.1,Gus Van Sant
+History,Pearl Harbor,5/21/2001,183,6.6,Michael Bay
+History,Public Enemies,7/1/2009,140,6.5,Michael Mann
+History,Mr. Turner,10/31/2014,150,6.3,Mike Leigh
+History,The Imitation Game,11/14/2014,113,8,Morten Tyldum
+History,In the Valley of Elah,8/31/2007,124,6.6,Paul Haggis
+History,The Iron Lady,12/30/2011,105,6.2,Phyllida Lloyd
+History,Tora! Tora! Tora!,1/26/1970,144,6.9,Richard Fleischer
+History,Mongol: The Rise of Genghis Khan,9/20/2007,120,6.5,Sergei Bodrov
+History,Lincoln,11/9/2012,149,6.7,Steven Spielberg
+Fantasy,Gods of Egypt,2/25/2016,127,5.3,Alex Proyas
+Fantasy,The Last Witch Hunter,10/21/2015,106,5.7,Breck Eisner
+Fantasy,Aliens vs Predator: Requiem,12/25/2007,94,4.9,Colin Strause
+Fantasy,Teenage Mutant Ninja Turtles: Out of the Shadows,6/1/2016,112,5.8,Dave Green
+Fantasy,Mirrormask,1/25/2005,101,6.6,Dave McKean
+Fantasy,How to Train Your Dragon 2,6/12/2014,102,7.6,Dean DeBlois
+Fantasy,Hellboy,4/2/2004,122,6.5,Guillermo del Toro
+Fantasy,G-Force,7/21/2009,88,5.1,Hoyt Yeatman
+Fantasy,Alice Through the Looking Glass,5/25/2016,113,6.5,James Bobin
+Fantasy,Underworld: Evolution,1/12/2006,106,6.4,Len Wiseman
+Fantasy,Wolf,6/17/1994,125,6,Mike Nichols
+Fantasy,Underworld: Rise of the Lycans,1/22/2009,92,6.2,Patrick Tatopoulos
+Fantasy,Hancock,7/1/2008,92,6.2,Peter Berg
+Fantasy,Krull,7/29/1983,117,5.8,Peter Yates
+Fantasy,DragonHeart,5/31/1996,103,6.4,Rob Cohen
+Fantasy,R.I.P.D.,7/18/2013,96,5.4,Robert Schwentke
+Fantasy,Spider-Man,5/1/2002,121,6.8,Sam Raimi
+Fantasy,Spider-Man 3,5/1/2007,139,5.9,Sam Raimi
+Fantasy,Eragon,12/14/2006,104,4.9,Stefen Fangmeier
+Fantasy,Immortals,11/10/2011,110,5.7,Tarsem Singh
+Fantasy,Batman,6/23/1989,126,7,Tim Burton
+Family,Hairspray,7/13/2007,117,6.5,Adam Shankman
+Family,Alpha and Omega,9/17/2010,88,5.3,Ben Gluck
+Family,Thunder and the House of Magic,12/24/2013,85,6.3,Ben Stassen
+Family,Jingle All the Way,11/15/1996,89,5.5,Brian Levant
+Family,Earth to Echo,6/14/2014,89,5.7,Dave Green
+Family,Diary of a Wimpy Kid: Rodrick Rules,3/25/2011,99,6.3,David Bowers
+Family,Madagascar,5/25/2005,86,6.6,Eric Darnell
+Family,Madagascar: Escape 2 Africa,10/30/2008,89,6.2,Eric Darnell
+Family,Penguins of Madagascar,11/22/2014,92,6.5,Eric Darnell
+Family,The Angry Birds Movie,5/11/2016,97,5.9,Fergal Reilly
+Family,The Lizzie McGuire Movie,4/25/2003,94,5.7,Jim Fall
+Family,The Jungle Book,4/7/2016,106,6.7,Jon Favreau
+Family,Minions,6/17/2015,91,6.4,Kyle Balda
+Family,Three Men and a Baby,11/27/1987,102,5.8,Leonard Nimoy
+Family,Batman,7/30/1966,105,6.1,Leslie H. Martinson
+Family,Willy Wonka & the Chocolate Factory,6/29/1971,100,7.4,Mel Stuart
+Family,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",10/8/2014,81,6.1,Miguel Arteta
+Family,Paddington,11/27/2014,95,7,Paul King
+Family,Zoom,8/11/2006,83,4.9,Peter Hewitt
+Family,Wreck-It Ralph,11/1/2012,108,7.1,Rich Moore
+Family,Stuart Little 2,7/19/2002,78,5.4,Rob Minkoff
+Family,Spy Kids: All the Time in the World,8/18/2011,89,4.4,Robert Rodriguez
+Family,The Lion King,6/23/1994,89,8,Roger Allers
+Family,How the Grinch Stole Christmas,11/17/2000,104,6.2,Ron Howard
+Family,ParaNorman,8/3/2012,90,6.7,Sam Fell
+Family,Where the Wild Things Are,10/16/2009,101,6.4,Spike Jonze
+Family,Mr. Bean's Holiday,3/22/2007,90,6.1,Steve Bendelack
+Family,Bee Movie,10/28/2007,91,5.7,Steve Hickner
+Family,The Jungle Book 2,2/7/2003,72,5.6,Steve Trenbirth
+Family,Alice in Wonderland,3/3/2010,108,6.4,Tim Burton
+Family,Sinbad: Legend of the Seven Seas,7/2/2003,86,6.6,Tim Johnson
+Family,Marmaduke,6/4/2010,87,5,Tom Dey
+Family,Ella Enchanted,4/9/2004,96,5.9,Tommy O'Haver
+Drama,The Sea Inside,9/3/2004,125,7.2,Alejandro Amenbar
+Drama,Babel,9/8/2006,143,6.9,Alejandro Gonzalez
+Drama,Biutiful,10/20/2010,148,7,Alejandro Gonzalez
+Drama,Fireproof,9/26/2008,122,7,Alex Kendrick
+Drama,Fish Tank,5/14/2009,123,6.9,Andrea Arnold
+Drama,The Ice Storm,9/27/1997,112,6.9,Ang Lee
+Drama,The Second Mother,2/8/2015,110,7.8,Anna Muylaert
+Drama,Adore,4/3/2013,100,6.1,Anne Fontaine
+Drama,Cold Mountain,12/24/2003,154,6.7,Anthony Minghella
+Drama,Control,9/26/2007,121,7.5,Anton Corbijn
+Drama,A Separation,3/15/2011,123,7.7,Asghar Farhadi
+Drama,The Sweet Hereafter,5/14/1997,112,6.8,Atom Egoyan
+Drama,Rain Man,12/11/1988,133,7.6,Barry Levinson
+Drama,Australia,11/18/2008,165,6.3,Baz Luhrmann
+Drama,Moneyball,9/22/2011,133,7,Bennett Miller
+Drama,The Conformist,10/21/1970,107,7.6,Bernardo Bertolucci
+Drama,Dreamgirls,12/25/2006,134,6.6,Bill Condon
+Drama,Kinsey,9/4/2004,118,6.6,Bill Condon
+Drama,Sling Blade,8/30/1996,135,7.4,Billy Bob Thornton
+Drama,The Lost Weekend,11/25/1945,101,7.4,Billy Wilder
+Drama,Remember the Titans,9/29/2000,113,7.4,Boaz Yakin
+Drama,The Black Dahlia,9/15/2006,121,5.7,Brian De Palma
+Drama,42,4/12/2013,128,6.8,Brian Helgeland
+Drama,The Book Thief,11/8/2013,131,7.4,Brian Percival
+Drama,Mr. Church,9/16/2016,104,7,Bruce Beresford
+Drama,Charlie St. Cloud,5/1/2010,99,6.8,Burr Steers
+Drama,Lords of Dogtown,6/3/2005,107,7,Catherine Hardwicke
+Drama,"Synecdoche, New York",10/24/2008,124,7.4,Charlie Kaufman
+Drama,The Chorus,3/17/2004,96,7.5,Christophe Barratier
+Drama,Million Dollar Baby,12/15/2004,132,7.7,Clint Eastwood
+Drama,Gran Torino,12/9/2008,116,7.8,Clint Eastwood
+Drama,Black Snake Moan,12/8/2006,116,6.6,Craig Brewer
+Drama,Million Dollar Arm,5/9/2014,124,6.6,Craig Gillespie
+Drama,The Skeleton Twins,1/18/2014,90,6.7,Craig Johnson
+Drama,"4 Months, 3 Weeks and 2 Days",8/24/2007,113,7.3,Cristian Mungiu
+Drama,8 Mile,11/8/2002,110,6.8,Curtis Hanson
+Drama,Chasing Mavericks,10/25/2012,117,7,Curtis Hanson
+Drama,Whiplash,10/10/2014,105,8.3,Damien Chazelle
+Drama,Goal!: The Dream Begins,6/6/2005,118,6.6,Danny Cannon
+Drama,The Judge,10/8/2014,141,7.2,David Dobkin
+Drama,Fight Club,10/15/1999,139,8.3,David Fincher
+Drama,The Social Network,9/30/2010,120,7.1,David Fincher
+Drama,Joe,4/11/2014,118,6.5,David Gordon Green
+Drama,The Straight Story,10/15/1999,112,7.7,David Lynch
+Drama,The Fighter,12/17/2010,116,7.2,David O. Russell
+Drama,Winter's Bone,6/11/2010,100,6.8,Debra Granik
+Drama,The Great Debaters,12/27/2007,126,6.9,Denzel Washington
+Drama,Whip It,9/13/2009,111,6.7,Drew Barrymore
+Drama,Transamerica,12/23/2005,103,6.9,Duncan Tucker
+Drama,A Streetcar Named Desire,9/18/1951,125,7.6,Elia Kazan
+Drama,The Pursuit of Happyness,12/14/2006,117,7.7,Gabriele Muccino
+Drama,Seven Pounds,12/18/2008,123,7.5,Gabriele Muccino
+Drama,The Ides of March,9/24/2011,101,6.5,George Clooney
+Drama,Men of Honor,9/13/2000,129,7,"George Tillman, Jr."
+Drama,Palo Alto,5/9/2014,100,6.4,Gia Coppola
+Drama,Untraceable,1/22/2008,101,5.9,Gregory Hoblit
+Drama,Selena,3/21/1997,127,7,Gregory Nava
+Drama,Good Will Hunting,12/5/1997,126,7.9,Gus Van Sant
+Drama,Finding Forrester,12/21/2000,136,7,Gus Van Sant
+Drama,Promised Land,9/23/2012,106,6,Gus Van Sant
+Drama,The Believer,1/19/2001,98,6.8,Henry Bean
+Drama,Cries and Whispers,12/21/1972,91,7.8,Ingmar Bergman
+Drama,Life as a House,10/25/2001,125,7.2,Irwin Winkler
+Drama,Draft Day,4/11/2014,109,6.5,Ivan Reitman
+Drama,Welcome to the Rileys,10/29/2010,110,6.4,Jake Scott
+Drama,Glory Road,1/13/2006,118,7.2,James Gartner
+Drama,"Girl, Interrupted",12/21/1999,127,7.6,James Mangold
+Drama,Labor Day,12/27/2013,111,6.7,Jason Reitman
+Drama,Wild,12/5/2014,115,7,Jean-Marc Vall
+Drama,A Very Long Engagement,10/26/2004,133,7.1,Jean-Pierre Jeunet
+Drama,Mud,5/1/2013,130,7,Jeff Nichols
+Drama,Marvin's Room,12/18/1996,98,6.6,Jerry Zaks
+Drama,I Am Sam,12/28/2001,132,7.2,Jessie Nelson
+Drama,Get Rich or Die Tryin',11/9/2005,117,6.3,Jim Sheridan
+Drama,The Beaver,2/11/2011,91,6.3,Jodie Foster
+Drama,The Soloist,4/24/2009,109,6.6,Joe Wright
+Drama,Rabbit Hole,12/16/2010,91,6.9,John Cameron Mitchell
+Drama,Stone,10/7/2010,105,5.2,John Curran
+Drama,Rocky,11/21/1976,119,7.5,John G. Avildsen
+Drama,The Karate Kid,6/22/1984,126,6.9,John G. Avildsen
+Drama,The Blind Side,11/20/2009,129,7.2,John Lee Hancock
+Drama,Midnight Cowboy,5/25/1969,113,7.4,John Schlesinger
+Drama,Burnt,10/2/2015,100,6.3,John Wells
+Drama,Philadelphia,12/22/1993,125,7.6,Jonathan Demme
+Drama,Rachel Getting Married,10/3/2008,113,6.1,Jonathan Demme
+Drama,Hands of Stone,8/26/2016,105,6.1,Jonathan Jakubowicz
+Drama,The Diving Bell and the Butterfly,5/22/2007,112,7.4,Julian Schnabel
+Drama,The Other Boleyn Girl,2/28/2008,115,6.4,Justin Chadwick
+Drama,Hamlet,12/25/1996,242,7.3,Kenneth Branagh
+Drama,The Last King of Scotland,9/1/2006,121,7.4,Kevin Macdonald
+Drama,Everybody's Fine,12/4/2009,99,6.5,Kirk Jones
+Drama,August Rush,11/21/2007,114,7.1,Kirsten Sheridan
+Drama,The Hundred-Foot Journey,8/6/2014,122,7.3,Lasse Hallstr
+Drama,An Unfinished Life,9/9/2005,108,6.7,Lasse Hallstr
+Drama,The Class,9/24/2008,128,6.8,Laurent Cantet
+Drama,The Butler,8/16/2013,132,7.2,Lee Daniels
+Drama,Precious,11/6/2009,110,6.9,Lee Daniels
+Drama,Polisse,10/6/2011,127,7.9,Maefwenn
+Drama,Finding Neverland,10/17/2004,106,7.2,Marc Forster
+Drama,The Kite Runner,10/14/2007,128,7.3,Marc Forster
+Drama,Gigli,8/1/2003,121,3.5,Martin Brest
+Drama,The Aviator,12/17/2004,170,7,Martin Scorsese
+Drama,Raging Bull,11/14/1980,129,7.7,Martin Scorsese
+Drama,The Color of Money,10/7/1986,119,6.7,Martin Scorsese
+Drama,Bringing Out the Dead,10/22/1999,121,6.6,Martin Scorsese
+Drama,The Last Temptation of Christ,8/12/1988,164,7,Martin Scorsese
+Drama,We Are Marshall,12/12/2006,124,6.7,McG
+Drama,The Passion of the Christ,2/25/2004,127,6.9,Mel Gibson
+Drama,Ali,12/11/2001,157,6.7,Michael Mann
+Drama,Reign Over Me,3/23/2007,124,7.1,Mike Binder
+Drama,Black or White,9/6/2014,121,6.5,Mike Binder
+Drama,Radio,10/24/2003,109,6.8,Mike Tollin
+Drama,One Flew Over the Cuckoo's Nest,11/18/1975,133,8.2,Milo Forman
+Drama,The Birth of a Nation,9/9/2016,120,6.5,Nate Parker
+Drama,My Sister's Keeper,6/26/2009,109,7.1,Nick Cassavetes
+Drama,"McFarland, USA",2/20/2015,128,7.4,Niki Caro
+Drama,North Country,2/12/2005,126,6.8,Niki Caro
+Drama,The Hurricane,9/17/1999,146,7.2,Norman Jewison
+Drama,Any Given Sunday,12/16/1999,163,6.8,Oliver Stone
+Drama,Miracles from Heaven,3/17/2016,117,6.7,Patricia Riggen
+Drama,Crash,1/13/2004,112,7.2,Paul Haggis
+Drama,There Will Be Blood,12/28/2007,158,7.9,Paul Thomas Anderson
+Drama,Magnolia,12/8/1999,188,7.5,Paul Thomas Anderson
+Drama,The Master,9/7/2012,137,7,Paul Thomas Anderson
+Drama,Boogie Nights,9/11/1997,155,7.5,Paul Thomas Anderson
+Drama,Showgirls,9/22/1995,128,4.9,Paul Verhoeven
+Drama,Ida,10/25/2013,80,7.1,Pawe Pawlikowski
+Drama,White Oleander,10/11/2002,109,7.2,Peter Kosminsky
+Drama,Concussion,11/12/2015,123,7,Peter Landesman
+Drama,Dead Poets Society,6/2/1989,129,8.1,Peter Weir
+Drama,Quills,11/22/2000,124,6.8,Philip Kaufman
+Drama,If I Stay,8/21/2014,106,7.3,R.J. Cutler
+Drama,Heaven is for Real,4/16/2014,99,6,Randall Wallace
+Drama,Secretariat,8/20/2010,123,6.8,Randall Wallace
+Drama,Still Alice,12/5/2014,99,7.5,Richard Glatzer
+Drama,Boyhood,6/5/2014,164,7.5,Richard Linklater
+Drama,A Few Good Men,12/11/1992,138,7.1,Rob Reiner
+Drama,Ordinary People,9/19/1980,124,7.4,Robert Redford
+Drama,The Hustler,9/25/1961,134,7.6,Robert Rossen
+Drama,Flight,11/2/2012,138,6.5,Robert Zemeckis
+Drama,The World's Fastest Indian,10/12/2005,127,7.3,Roger Donaldson
+Drama,Apollo 13,6/30/1995,140,7.3,Ron Howard
+Drama,Creed,11/25/2015,133,7.3,Ryan Coogler
+Drama,Fruitvale Station,7/25/2013,85,7.3,Ryan Coogler
+Drama,Half Nelson,8/11/2006,107,6.5,Ryan Fleck
+Drama,Eat Pray Love,8/12/2010,133,5.8,Ryan Murphy
+Drama,American Beauty,9/15/1999,122,7.9,Sam Mendes
+Drama,Nowhere Boy,12/25/2009,98,7.2,Sam Taylor-Johnson
+Drama,Shine,1/21/1996,105,7.3,Scott Hicks
+Drama,12 Angry Men,3/25/1957,96,8.2,Sidney Lumet
+Drama,Network,11/1/1976,121,7.7,Sidney Lumet
+Drama,The Verdict,12/8/1982,129,7.4,Sidney Lumet
+Drama,Woman in Gold,4/10/2015,120,7.3,Simon Curtis
+Drama,My Week with Marilyn,10/17/2011,99,6.6,Simon Curtis
+Drama,Lost in Translation,8/31/2003,102,7.3,Sofia Coppola
+Drama,Hesher,1/22/2010,106,6.7,Spencer Susser
+Drama,Do the Right Thing,6/30/1989,120,7.6,Spike Lee
+Drama,He Got Game,5/1/1998,136,6.7,Spike Lee
+Drama,Extremely Loud & Incredibly Close,12/24/2011,129,6.9,Stephen Daldry
+Drama,The Hours,12/27/2002,114,7,Stephen Daldry
+Drama,Philomena,11/1/2013,98,7.4,Stephen Frears
+Drama,The Queen,9/15/2006,103,6.8,Stephen Frears
+Drama,Shame,10/2/2011,100,7,Steve McQueen
+Drama,Erin Brockovich,3/17/2000,131,7.1,Steven Soderbergh
+Drama,"Sex, Lies, and Videotape",8/18/1989,100,6.7,Steven Soderbergh
+Drama,The Color Purple,12/18/1985,154,7.7,Steven Spielberg
+Drama,A Civil Action,3/5/1998,115,6.1,Steven Zaillian
+Drama,Out of Africa,12/20/1985,161,7,Sydney Pollack
+Drama,Rocky Balboa,12/20/2006,102,6.5,Sylvester Stallone
+Drama,The Savages,1/19/2007,114,6.8,Tamara Jenkins
+Drama,The Help,8/9/2011,146,7.8,Tate Taylor
+Drama,Coach Carter,1/14/2005,136,7.3,Thomas Carter
+Drama,When the Game Stands Tall,8/22/2014,115,6.3,Thomas Carter
+Drama,The Hunt,8/28/2012,115,7.9,Thomas Vinterberg
+Drama,The Celebration,5/20/1998,105,7.7,Thomas Vinterberg
+Drama,Big Eyes,12/24/2014,105,6.8,Tim Burton
+Drama,Dead Man Walking,12/29/1995,122,7.3,Tim Robbins
+Drama,Ben-Hur,8/17/2016,125,5.3,Timur Bekmambetov
+Drama,The Damned United,3/27/2009,97,7.2,Tom Hooper
+Drama,Dragonfly,2/22/2002,104,6.1,Tom Shadyac
+Drama,American History X,10/30/1998,119,8.2,Tony Kaye
+Drama,House of Sand and Fog,12/19/2003,126,7,Vadim Perelman
+Drama,Central Station,1/16/1998,113,7.6,Walter Salles
+Drama,The Perfect Storm,3/15/2000,130,6.2,Wolfgang Petersen
+Drama,Dogtooth,6/1/2009,94,6.9,Yorgos Lanthimos
+Documentary,Inside Job,10/8/2010,109,7.7,Charles Ferguson
+Documentary,An Inconvenient Truth,1/24/2006,100,6.7,Davis Guggenheim
+Documentary,Oceans,10/17/2009,84,7.3,Jacques Perrin
+Documentary,Jackass: The Movie,10/21/2002,87,6.1,Jeff Tremaine
+Documentary,Justin Bieber: Never Say Never,2/11/2011,105,4.8,Jon M. Chu
+Documentary,The Act of Killing,8/31/2012,115,7.5,Joshua Oppenheimer
+Documentary,Touching the Void,9/5/2003,106,7.6,Kevin Macdonald
+Documentary,Indie Game: The Movie,5/18/2012,96,7.4,Lisanne Pajot
+Documentary,March of the Penguins,1/26/2005,80,6.9,Luc Jacquet
+Documentary,Fahrenheit 9/11,6/25/2004,122,6.8,Michael Moore
+Documentary,Sicko,5/18/2007,123,7.3,Michael Moore
+Documentary,Bowling for Columbine,10/9/2002,120,7.3,Michael Moore
+Documentary,Capitalism: A Love Story,9/6/2009,120,7,Michael Moore
+Documentary,Super Size Me,1/17/2004,100,6.6,Morgan Spurlock
+Documentary,One Direction: This Is Us,8/28/2013,92,8,Morgan Spurlock
+Documentary,"Food, Inc.",9/7/2008,94,7.4,Robert Kenner
+Crime,Four Rooms,12/9/1995,98,6.5,Allison Anders
+Crime,The Art of War,8/23/2000,117,5.6,Christian Duguay
+Crime,Young Guns,8/12/1988,107,6.6,Christopher Cain
+Crime,Premium Rush,8/24/2012,91,6.2,David Koepp
+Crime,Heartbreakers,3/23/2001,123,5.7,David Mirkin
+Crime,Go,4/9/1999,98,7,Doug Liman
+Crime,Hot Fuzz,2/14/2007,121,7.4,Edgar Wright
+Crime,Intolerable Cruelty,9/2/2003,100,5.8,Joel Coen
+Crime,"Big Mommas: Like Father, Like Son",2/16/2011,107,5.3,John Whitesell
+Crime,Taxi Driver,2/7/1976,114,8,Martin Scorsese
+Crime,Chappie,3/4/2015,120,6.6,Neill Blomkamp
+Crime,Johnny English Reborn,9/15/2011,101,6,Oliver Parker
+Crime,22 Jump Street,6/5/2014,112,7,Phil Lord
+Crime,Big Momma's House,5/31/2000,98,5.6,Raja Gosnell
+Crime,The Long Kiss Goodnight,10/11/1996,120,6.5,Renny Harlin
+Crime,Stand by Me,8/22/1986,89,7.8,Rob Reiner
+Crime,The November Man,8/27/2014,108,6,Roger Donaldson
+Crime,Mr. Nice Guy,1/31/1997,113,6.3,Sammo Hung
+Crime,Black Mass,9/4/2015,122,6.3,Scott Cooper
+Crime,Heist,11/13/2015,93,5.6,Scott Mann
+Crime,25th Hour,12/16/2002,135,7.2,Spike Lee
+Crime,Rumble in the Bronx,1/30/1995,91,6.5,Stanley Tong
+Crime,Ace Ventura: When Nature Calls,11/10/1995,90,6.1,Steve Oedekerk
+Crime,Kung Fu Jungle,10/31/2014,100,6.5,Teddy Chan
+Comedy,Anchorman 2: The Legend Continues,12/18/2013,119,6,Adam McKay
+Comedy,Anchorman: The Legend of Ron Burgundy,7/9/2004,94,6.7,Adam McKay
+Comedy,Step Brothers,7/25/2008,98,6.5,Adam McKay
+Comedy,Talladega Nights: The Ballad of Ricky Bobby,8/4/2006,116,6.2,Adam McKay
+Comedy,Cheaper by the Dozen 2,12/21/2005,94,5.7,Adam Shankman
+Comedy,The Wedding Planner,1/26/2001,103,5.5,Adam Shankman
+Comedy,Bringing Down the House,3/7/2003,105,5.4,Adam Shankman
+Comedy,Waitress,5/25/2007,108,6.7,Adrienne Shelly
+Comedy,The Watch,7/26/2012,98,5.3,Akiva Schaffer
+Comedy,Election,4/23/1999,99,6.7,Alexander Payne
+Comedy,Fast Times at Ridgemont High,8/13/1982,90,7,Amy Heckerling
+Comedy,Parental Guidance,12/25/2012,104,5.7,Andy Fickman
+Comedy,The Guilt Trip,12/19/2012,95,5.4,Anne Fletcher
+Comedy,Envy,4/30/2004,99,4.8,Barry Levinson
+Comedy,Tammy,7/2/2014,97,5,Ben Falcone
+Comedy,The Boss,4/7/2016,91,5.5,Ben Falcone
+Comedy,Zoolander,9/28/2001,89,6.1,Ben Stiller
+Comedy,Zoolander 2,2/6/2016,100,4.7,Ben Stiller
+Comedy,The Return of the Pink Panther,5/21/1975,113,6.7,Blake Edwards
+Comedy,Porky's,11/13/1981,94,6.1,Bob Clark
+Comedy,Dumb and Dumber To,11/12/2014,110,5.4,Bobby Farrelly
+Comedy,"Me, Myself & Irene",6/22/2000,116,6.1,Bobby Farrelly
+Comedy,Dumb and Dumber,12/16/1994,107,6.5,Bobby Farrelly
+Comedy,Hall Pass,2/25/2011,105,5.4,Bobby Farrelly
+Comedy,Kingpin,7/4/1996,113,6.7,Bobby Farrelly
+Comedy,The Three Stooges,4/13/2012,92,4.9,Bobby Farrelly
+Comedy,Stuck on You,12/10/2003,118,5.1,Bobby Farrelly
+Comedy,17 Again,3/11/2009,102,6.1,Burr Steers
+Comedy,"Legally Blonde 2: Red, White & Blonde",7/2/2003,95,5.1,Charles Herman-Wurmfeld
+Comedy,Alfie,10/22/2004,103,5.6,Charles Shyer
+Comedy,Best in Show,9/19/2000,90,6.7,Christopher Guest
+Comedy,Dirty Grandpa,1/21/2016,102,5.7,Dan Mazer
+Comedy,"Dude, Where’s My Car?",12/15/2000,83,5.2,Danny Leiner
+Comedy,Welcome to the Sticks,1/9/2008,106,6.8,Dany Boon
+Comedy,The Change-Up,8/5/2011,112,5.9,David Dobkin
+Comedy,The Big Year,10/13/2011,100,5.6,David Frankel
+Comedy,Your Highness,4/8/2011,102,5.2,David Gordon Green
+Comedy,The Sitter,12/9/2011,81,5.4,David Gordon Green
+Comedy,Coyote Ugly,7/30/2000,100,5.8,David McNally
+Comedy,Major League,2/16/1989,107,6.6,David S. Ward
+Comedy,Role Models,2/3/2008,99,6.4,David Wain
+Comedy,Wanderlust,2/23/2012,98,5.3,David Wain
+Comedy,They Came Together,6/27/2014,84,5.3,David Wain
+Comedy,Scary Movie 3,10/24/2003,84,5.8,David Zucker
+Comedy,Scary Movie 4,4/13/2006,83,5.3,David Zucker
+Comedy,Fun with Dick and Jane,12/21/2005,90,5.9,Dean Parisot
+Comedy,New York Minute,5/1/2004,91,5.5,Dennie Gordon
+Comedy,What a Girl Wants,3/27/2003,105,5.8,Dennie Gordon
+Comedy,Grown Ups 2,7/11/2013,100,5.8,Dennis Dugan
+Comedy,Grown Ups,6/24/2010,102,6,Dennis Dugan
+Comedy,Happy Gilmore,2/16/1996,92,6.5,Dennis Dugan
+Comedy,Jack and Jill,11/11/2011,91,4.1,Dennis Dugan
+Comedy,The Benchwarmers,4/7/2006,80,5.2,Dennis Dugan
+Comedy,The Incredible Burt Wonderstone,3/14/2013,100,5.3,Don Scardino
+Comedy,Keeping the Faith,4/14/2000,127,5.9,Edward Norton
+Comedy,Barbecue,4/30/2014,98,5.8,Eric Lavaine
+Comedy,Get Hard,3/26/2015,100,5.9,Etan Cohen
+Comedy,Friday,4/26/1995,91,7,F. Gary Gray
+Comedy,Blended,5/21/2014,117,6.6,Frank Coraci
+Comedy,Here Comes the Boom,10/11/2012,105,6,Frank Coraci
+Comedy,The Waterboy,11/6/1998,90,5.9,Frank Coraci
+Comedy,Bowfinger,8/12/1999,97,6,Frank Oz
+Comedy,Racing Stripes,1/6/2005,102,5.1,Frederik Du Chau
+Comedy,Bride Wars,1/9/2009,89,5.9,Gary Winick
+Comedy,National Lampoon's Loaded Weapon 1,2/4/1993,84,5.7,Gene Quintano
+Comedy,Superbad,8/17/2007,113,7,Greg Mottola
+Comedy,Adventureland,4/3/2009,107,6.4,Greg Mottola
+Comedy,Movie 43,1/1/2013,90,4.4,Griffin Dunne
+Comedy,Caddyshack,7/25/1980,98,6.6,Harold Ramis
+Comedy,The Replacements,8/7/2000,118,6.1,Howard Deutch
+Comedy,Private Benjamin,10/6/1980,109,6,Howard Zieff
+Comedy,The First Wives Club,9/20/1996,102,6.5,Hugh Wilson
+Comedy,Twins,12/9/1988,107,5.7,Ivan Reitman
+Comedy,Kindergarten Cop,12/21/1990,111,5.8,Ivan Reitman
+Comedy,Sex Tape,7/17/2014,97,5.3,Jake Kasdan
+Comedy,Bad Teacher,5/16/2011,92,5.4,Jake Kasdan
+Comedy,Spanglish,12/17/2004,130,5.8,James L. Brooks
+Comedy,But I'm a Cheerleader,9/12/1999,85,6.5,Jamie Babbit
+Comedy,"For a Good Time, Call...",8/31/2012,85,5.8,Jamie Travis
+Comedy,Napoleon Dynamite,6/11/2004,95,6.7,Jared Hess
+Comedy,Bad Words,9/6/2013,88,6.4,Jason Bateman
+Comedy,Meet the Spartans,1/24/2008,84,3.7,Jason Friedberg
+Comedy,Date Movie,2/17/2006,83,3.6,Jason Friedberg
+Comedy,Beerfest,8/25/2006,110,5.8,Jay Chandrasekhar
+Comedy,The Campaign,8/9/2012,85,5.6,Jay Roach
+Comedy,Dinner for Schmucks,7/30/2010,114,5.5,Jay Roach
+Comedy,Over Her Dead Body,2/1/2008,95,5.3,Jeff Lowell
+Comedy,EuroTrip,2/20/2004,93,6.5,Jeff Schaffer
+Comedy,Bad Grandpa,10/22/2013,92,6,Jeff Tremaine
+Comedy,Airplane!,7/2/1980,88,7.1,Jerry Zucker
+Comedy,How High,12/21/2001,93,6.3,Jesse Dylan
+Comedy,Prom,4/29/2011,104,5.7,Joe Nussbaum
+Comedy,Sydney White,9/21/2007,108,6,Joe Nussbaum
+Comedy,Not Another Teen Movie,12/7/2001,89,5.5,Joel Gallen
+Comedy,A Night at the Roxbury,10/1/1998,81,5.9,John Fortenberry
+Comedy,Vacation,7/28/2015,99,6.2,John Francis Daley
+Comedy,"I Love You, Man",3/20/2009,105,6.5,John Hamburg
+Comedy,Trading Places,6/7/1983,116,7.1,John Landis
+Comedy,Animal House,7/27/1978,109,7,John Landis
+Comedy,Moms' Night Out,3/25/2014,98,5.5,Jon Erwin
+Comedy,American Reunion,4/4/2012,113,6.1,Jon Hurwitz
+Comedy,Bad Moms,7/28/2016,100,6.3,Jon Lucas
+Comedy,21 & Over,3/1/2013,93,5.7,Jon Lucas
+Comedy,Last Vegas,10/31/2013,105,6.4,Jon Turteltaub
+Comedy,Cool Runnings,9/30/1993,98,6.8,Jon Turteltaub
+Comedy,Fun Size,10/25/2012,87,5.5,Josh Schwartz
+Comedy,Trainwreck,7/17/2015,125,5.9,Judd Apatow
+Comedy,This Is 40,12/20/2012,134,5.6,Judd Apatow
+Comedy,The Big Wedding,4/25/2013,90,5.7,Justin Zackham
+Comedy,Imagine That,6/19/2009,107,5.7,Karey Kirkpatrick
+Comedy,Scary Movie 2,7/4/2001,83,5.4,Keenen Ivory Wayans
+Comedy,White Chicks,6/23/2004,109,6.3,Keenen Ivory Wayans
+Comedy,License to Wed,7/4/2007,91,5.2,Ken Kwapis
+Comedy,Delivery Man,10/10/2013,105,6.2,Ken Scott
+Comedy,Unfinished Business,3/5/2015,91,5,Ken Scott
+Comedy,Semi-Pro,2/28/2008,91,5.4,Kent Alterman
+Comedy,Agent Cody Banks 2: Destination London,12/3/2004,100,5.2,Kevin Allen
+Comedy,Zack and Miri Make a Porno,9/18/2008,102,6.1,Kevin Smith
+Comedy,Jay and Silent Bob Strike Back,8/22/2001,104,6.4,Kevin Smith
+Comedy,Clerks,9/13/1994,92,7.4,Kevin Smith
+Comedy,Clerks II,5/25/2006,97,6.9,Kevin Smith
+Comedy,The Dictator,5/15/2012,83,5.9,Larry Charles
+Comedy,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,11/1/2006,82,6.5,Larry Charles
+Comedy,Brüno,7/8/2009,83,5.4,Larry Charles
+Comedy,Little Nicholas,9/30/2009,91,5.9,Laurent Tirard
+Comedy,Let's Be Cops,8/13/2014,104,6.4,Luke Greenfield
+Comedy,The Girl Next Door,4/9/2004,108,6.3,Luke Greenfield
+Comedy,Scary Movie 5,4/11/2013,86,4.6,Malcolm D. Lee
+Comedy,The Best Man Holiday,11/15/2013,123,6.7,Malcolm D. Lee
+Comedy,Did You Hear About the Morgans?,12/17/2009,103,5.1,Marc Lawrence
+Comedy,Friday After Next,11/22/2002,85,6,Marcus Raboy
+Comedy,A Cinderella Story,7/10/2004,95,6.1,Mark Rosman
+Comedy,Mean Girls,4/30/2004,97,6.9,Mark Waters
+Comedy,Freaky Friday,8/3/2003,97,6,Mark Waters
+Comedy,History of the World: Part I,6/12/1981,92,6.5,Mel Brooks
+Comedy,Because I Said So,2/2/2007,102,5.8,Michael Lehmann
+Comedy,Baby Mama,4/23/2008,99,5.8,Michael McCullers
+Comedy,Cedar Rapids,2/11/2011,87,5.9,Miguel Arteta
+Comedy,Deuce Bigalow: European Gigolo,8/6/2005,83,4.7,Mike Bigelow
+Comedy,Extract,9/3/2009,92,5.7,Mike Judge
+Comedy,Deuce Bigalow: Male Gigolo,12/10/1999,88,5.5,Mike Mitchell
+Comedy,Boat Trip,10/1/2002,94,4.7,Mort Nathan
+Comedy,The Intern,9/24/2015,121,7.1,Nancy Meyers
+Comedy,Neighbors 2: Sorority Rising,5/4/2016,91,5.6,Nicholas Stoller
+Comedy,Neighbors,5/8/2014,96,6.2,Nicholas Stoller
+Comedy,The Five-Year Engagement,4/27/2012,124,5.7,Nicholas Stoller
+Comedy,Get Him to the Greek,6/4/2010,109,5.9,Nicholas Stoller
+Comedy,Grandma's Boy,1/6/2006,94,6.6,Nicholaus Goossen
+Comedy,A Lot Like Love,4/22/2005,107,6.5,Nigel Cole
+Comedy,A League of Their Own,7/1/1992,128,6.7,Penny Marshall
+Comedy,The Full Monty,8/13/1997,91,6.8,Peter Cattaneo
+Comedy,Grudge Match,12/25/2013,113,6,Peter Segal
+Comedy,Yes Man,12/9/2008,104,6.4,Peyton Reed
+Comedy,Bring It On,8/25/2000,98,5.8,Peyton Reed
+Comedy,All About Steve,9/4/2009,99,4.7,Phil Traill
+Comedy,DodgeBall: A True Underdog Story,6/18/2004,92,6.2,Rawson Marshall Thurber
+Comedy,Gulliver's Travels,12/25/2010,85,4.9,Rob Letterman
+Comedy,Waiting...,10/7/2005,94,6.2,Rob McKittrick
+Comedy,Legally Blonde,7/13/2001,96,6.1,Robert Luketic
+Comedy,Furry Vengeance,4/2/2010,92,4.6,Roger Kumble
+Comedy,Edtv,3/26/1999,122,5.7,Ron Howard
+Comedy,Confessions of a Teenage Drama Queen,2/17/2004,89,5.1,Sara Sugarman
+Comedy,No Reservations,7/25/2007,104,6.1,Scott Hicks
+Comedy,Horrible Bosses 2,11/26/2014,108,6.1,Sean Anders
+Comedy,Daddy's Home,12/25/2015,96,5.8,Sean Anders
+Comedy,That's My Boy,6/14/2012,116,5.5,Sean Anders
+Comedy,Ted 2,6/25/2015,115,6.2,Seth MacFarlane
+Comedy,Date Night,4/8/2010,97,5.9,Shawn Levy
+Comedy,Cheaper by the Dozen,12/24/2003,98,6,Shawn Levy
+Comedy,Just Married,1/9/2003,95,5.3,Shawn Levy
+Comedy,The Internship,6/7/2013,119,6.1,Shawn Levy
+Comedy,Next Friday,1/12/2000,98,6.4,Steve Carr
+Comedy,Hot Tub Time Machine 2,2/20/2015,93,5,Steve Pink
+Comedy,Drillbit Taylor,3/20/2008,102,5.5,Steven Brill
+Comedy,St. Vincent,10/9/2014,102,7.1,Theodore Melfi
+Comedy,The Hangover,6/5/2009,100,7.2,Todd Phillips
+Comedy,The Hangover Part II,5/25/2011,102,6.2,Todd Phillips
+Comedy,Old School,2/21/2003,91,6.6,Todd Phillips
+Comedy,A Very Harold & Kumar Christmas,11/4/2011,108,6,Todd Strauss-Schulson
+Comedy,Failure to Launch,3/10/2006,97,5.5,Tom Dey
+Comedy,Freddy Got Fingered,4/18/2001,87,4.6,Tom Green
+Comedy,Liar Liar,3/21/1997,86,6.4,Tom Shadyac
+Comedy,Orgazmo,9/6/1997,94,6.2,Trey Parker
+Comedy,Dumb and Dumberer: When Harry Met Lloyd,6/13/2003,85,4.1,Troy Miller
+Comedy,Post Grad,8/21/2009,89,5,Vicky Jenson
+Comedy,Easy A,9/10/2010,92,6.7,Will Gluck
+Comedy,Everything You Always Wanted to Know About Sex *But Were Afraid to Ask,8/6/1972,88,6.6,Woody Allen
+Comedy,Bananas,4/28/1971,82,6.7,Woody Allen
+Animation,Brave,6/21/2012,93,6.7,Brenda Chapman
+Animation,Escape from Planet Earth,2/14/2013,89,5.7,Callan Brunker
+Animation,Rio,4/3/2011,96,6.5,Carlos Saldanha
+Animation,Rio 2,3/19/2014,102,6.3,Carlos Saldanha
+Animation,Anomalisa,12/30/2015,90,7,Charlie Kaufman
+Animation,Frozen,11/27/2013,102,7.3,Chris Buck
+Animation,Epic,5/15/2013,102,6.4,Chris Wedge
+Animation,Astro Boy,10/15/2009,94,6.1,David Bowers
+Animation,The Land Before Time,11/18/1988,69,7,Don Bluth
+Animation,Titan A.E.,6/16/2000,94,6.3,Gary Goldman
+Animation,Happy Feet,11/16/2006,108,5.9,George Miller
+Animation,Space Jam,11/15/1996,88,6.5,Joe Pytka
+Animation,Cars,6/8/2006,117,6.6,John Lasseter
+Animation,Toy Story,10/30/1995,81,7.7,John Lasseter
+Animation,Toy Story 2,10/30/1999,92,7.3,John Lasseter
+Animation,Underdogs,7/18/2013,106,6,Juan Jose Campanella
+Animation,Beavis and Butt-Head Do America,12/15/1996,81,6.5,Mike Judge
+Animation,The SpongeBob Movie: Sponge Out of Water,2/5/2015,93,5.8,Paul Tibbitt
+Animation,"Monsters, Inc.",11/1/2001,92,7.5,Pete Docter
+Animation,The Pirates! In an Adventure with Scientists!,3/12/2012,88,6.4,Peter Lord
+Animation,Despicable Me 2,6/25/2013,98,7,Pierre Coffin
+Animation,Mr. Peabody & Sherman,2/7/2014,92,6.7,Rob Minkoff
+Animation,The Peanuts Movie,11/5/2015,88,6.5,Steve Martino
+Animation,Ice Age: Continental Drift,6/26/2012,88,6.2,Steve Martino
+Animation,Megamind,10/28/2010,95,6.7,Tom McGrath
+Animation,Shark Tale,9/20/2004,90,5.8,Vicky Jenson
+Animation,Legend of the Guardians: The Owls of Ga'Hoole,7/10/2010,97,6.5,Zack Snyder
+Adventure,The Secret Life of Bees,9/17/2008,114,7.4,Gina Prince-Bythewood
+Adventure,Medicine Man,2/7/1992,106,5.8,John McTiernan
+Adventure,Blue Crush,8/8/2002,104,5.6,John Stockwell
+Adventure,Wrath of the Titans,3/27/2012,99,5.5,Jonathan Liebesman
+Adventure,Robin Hood: Prince of Thieves,6/14/1991,143,6.6,Kevin Reynolds
+Adventure,Waterworld,7/28/1995,135,5.9,Kevin Reynolds
+Adventure,Rob Roy,4/13/1995,139,6.5,Michael Caton-Jones
+Adventure,Master and Commander: The Far Side of the World,11/14/2003,138,6.9,Peter Weir
+Adventure,The Phantom,6/6/1996,100,4.7,Simon Wincer
+Adventure,The Ghost and the Darkness,10/11/1996,109,6.4,Stephen Hopkins
+Adventure,Indiana Jones and the Last Crusade,5/24/1989,127,7.6,Steven Spielberg
+Adventure,Indiana Jones and the Kingdom of the Crystal Skull,5/21/2008,122,5.7,Steven Spielberg
+Adventure,Raiders of the Lost Ark,6/12/1981,115,7.7,Steven Spielberg
+Adventure,Indiana Jones and the Temple of Doom,5/23/1984,118,7.1,Steven Spielberg
+Adventure,Days of Thunder,6/27/1990,107,5.9,Tony Scott
+Action,The Bounty Hunter,3/16/2010,110,5.5,Andy Tennant
+Action,Criminal,4/14/2016,113,5.7,Ariel Vromen
+Action,Agent Cody Banks,3/14/2003,102,5,Harald Zwart
+Action,Furious 7,4/1/2015,137,7.3,James Wan
+Action,Max Payne,10/15/2008,100,5.2,John Moore
+Action,Torque,1/16/2004,84,4.7,Joseph Kahn
+Action,State of Play,4/17/2009,127,6.7,Kevin Macdonald
+Action,Risen,2/19/2016,107,5.7,Kevin Reynolds
+Action,Bloodsport,2/26/1988,92,6.6,Newt Arnold
+Action,Driven,4/27/2001,116,4.5,Renny Harlin
+Action,Stealth,7/28/2005,121,4.9,Rob Cohen
+Action,Once Upon a Time in Mexico,9/11/2003,102,6.2,Robert Rodriguez
+Action,The Man with the Iron Fists,11/2/2012,96,5.2,RZA
+Action,American Heist,9/11/2014,94,4.3,Sarik Andreasyan
+Action,Maze Runner: The Scorch Trials,9/9/2015,132,6.4,Wes Ball
