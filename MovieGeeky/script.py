@@ -90,20 +90,3 @@ while len(selected_movie_genre) == 0:
 
     else:
         print("Sorry, I've no movies genre with '" + user_input + "'. Please try again.")
-
-    """
-
-    print("")
-    for movie in movies_data:
-        if text in movie[0].lower():
-            print("-----------------------------------------------------")
-            for details in movie[1:]:
-                if details == movie[3]:
-                    print(details + " min")
-                
-                elif details == movie[4]:
-                    print(details + " / 10")
-                
-                else:
-                    print(details)
-    """
