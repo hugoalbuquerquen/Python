@@ -1,0 +1,24 @@
+
+#CodeCademy was asking me to do math conversation of binary numbers, thought it'd be faster to create a function for that:
+
+def bin_dec_converter(str_binary):
+
+  dec_num = 0
+  i = 1
+
+  for item in str_binary[::-1]:
+
+    if int(item) not in range(0, 2):
+      return "Invalid binary number."
+    
+    elif int(item) == 1:
+      dec_num += i
+    #print(item, i, dec_num)
+
+    i *= 2
+  return dec_num
+
+decimal_conversion1 = bin_dec_converter("100110")
+
+decimal_conversion2 = bin_dec_converter("11171011110011")
+print(decimal_conversion2)
