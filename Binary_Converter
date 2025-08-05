@@ -1,5 +1,4 @@
-
-#CodeCademy was asking me to do math conversation of binary numbers, thought it'd be faster to create a function for that:
+#CodeCademy was asking me to do math conversation of binary numbers, so I hard coded a function for that:
 
 def bin_dec_converter(str_binary):
 
@@ -18,7 +17,6 @@ def bin_dec_converter(str_binary):
     i *= 2
   return dec_num
 
-decimal_conversion1 = bin_dec_converter("100110")
+print(bin_dec_converter("100110"), int(0b100110)) #double checking
 
-decimal_conversion2 = bin_dec_converter("11171011110011")
-print(decimal_conversion2)
+print(bin_dec_converter("1111011110011"), int(0b1111011110011))
