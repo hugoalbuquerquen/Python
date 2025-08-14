@@ -1,0 +1,22 @@
+#CodeCademy was asking me to do math conversation of binary numbers, so I hard coded a function for that:
+
+def bin_dec_converter(str_binary):
+
+  dec_num = 0
+  i = 1
+
+  for item in str_binary[::-1]:
+
+    if int(item) not in range(0, 2):
+      return "Invalid binary number."
+    
+    elif int(item) == 1:
+      dec_num += i
+    #print(item, i, dec_num)
+
+    i *= 2
+  return dec_num
+
+print(bin_dec_converter("100110"), int(0b100110)) #double checking
+
+print(bin_dec_converter("1111011110011"), int(0b1111011110011))
