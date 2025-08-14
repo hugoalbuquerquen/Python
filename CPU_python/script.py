@@ -2,7 +2,11 @@ import os
 import sys
 
 class CPU_emulator:
-    def __init__(self, name):
+    def __init__(self):
+
+        print("")
+        self.user_name = input("Hi! What's your name? ").upper()
+        print("")
         
         memory_size = ""
         while(not memory_size.isdigit()):
@@ -10,7 +14,7 @@ class CPU_emulator:
             os.system('cls' if os.name == 'nt' else 'clear')
 
             print("")
-            print("Welcome, {}!".format(name.upper()))
+            print("Welcome! {}".format(self.user_name))
             print("")
 
             try:
@@ -23,8 +27,8 @@ class CPU_emulator:
         
         self.memory = {}
         
-        #registers will be a 3rd of the capacity of the memory ('cause I want to :P
-        self.reg_size = memory_size // 3
+        #registers will be a 4th of the capacity of the memory ('cause I want to :P
+        self.reg_size = memory_size // 4
         self.registers = {}
         self.reg_idx = 1
 
@@ -33,7 +37,7 @@ class CPU_emulator:
             os.system('cls' if os.name == 'nt' else 'clear')
 
             print("")
-            print("Welcome, {}!".format(name.upper()))
+            print("Welcome, {}!".format(self.user_name.upper()))
             print("")
 
             print("'END' - To finish the program.")
@@ -43,6 +47,8 @@ class CPU_emulator:
             print("'ADD/SUB/MUL/DIV Rn Rn' - To update the first Rn with the result.")
             print("")
 
+            
+            
             print("Register: {}/{} - {}".format(len(self.registers), self.reg_size, self.registers))
             print("Memory: {}/{} - {}".format(len(self.memory), memory_size, self.memory))
             print("")
@@ -57,7 +63,7 @@ class CPU_emulator:
         elif(len(data) <= 1):
 
             if(data[0] == "END"):
-                print("\nGoodbye!\n")
+                print("\nGoodbye {}!\n".format(self.user_name))
                 sys.exit()
         
         elif(len(data) <= 2):
@@ -186,4 +192,4 @@ class CPU_emulator:
             self.update_idx(address_1)
             self.registers[address_1] = round((self.registers[address_1] / self.registers[address_2]), 2)
 
-my_cpu = CPU_emulator("Name")
+my_cpu = CPU_emulator()
